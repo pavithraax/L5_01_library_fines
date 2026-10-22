@@ -1,0 +1,6 @@
+************* Module library_system
+library_system.py:53:4: W0603: Using the global statement (global-statement)
+
+------------------------------------------------------------------
+Your code has been rated at 9.89/10 (previous run: 9.66/10, +0.23)
+
